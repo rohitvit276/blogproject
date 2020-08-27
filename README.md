@@ -1,2 +1,0 @@
-# blogproject
-blogproject code update
